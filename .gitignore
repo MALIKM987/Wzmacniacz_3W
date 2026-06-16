@@ -1,0 +1,21 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Altium temporary / generated
+*.PrjPcbStructure
+History/
+__Previews/
+*.PcbDocPreview
+*.SchDocPreview
+
+# LTspice temporary
+*.raw
+*.log
+*.net
+
+# Archives
+*.zip
+
+# Office temp
+~$*
