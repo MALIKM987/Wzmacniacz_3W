@@ -75,3 +75,11 @@ $$
 ## Uwagi praktyczne
 
 Końcówka klasy A wymaga szczególnej uwagi przy projektowaniu termicznym. Tranzystory mocy powinny pracować z odpowiednim radiatorem, a punkt pracy powinien być zweryfikowany pomiarowo.
+
+## Schemat ze sprawozdania
+
+![Schemat wzmacniacza mocy](../assets/rendered/wzmacniacz_mocy_schemat.png)
+
+## Schemat symulacyjny LTspice
+
+![Schemat LTspice wzmacniacza mocy](../assets/rendered/wzmacniacz_mocy_ltspice.png)

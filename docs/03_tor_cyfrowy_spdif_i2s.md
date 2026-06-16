@@ -35,3 +35,7 @@ DIR9001 dekoduje sygnał S/PDIF, odzyskuje zegar przez PLL i generuje sygnały z
 ## Rola SN74LVU04A
 
 SN74LVU04A pełni rolę bufora i układu poprawiającego zbocza sygnałów logicznych. Jest to ważne, ponieważ sygnały zegarowe I2S mają duży wpływ na jakość konwersji cyfrowo-analogowej.
+
+## Schemat ze sprawozdania
+
+![Schemat S/PDIF do I2S](../assets/rendered/spdif_i2s_schemat.png)

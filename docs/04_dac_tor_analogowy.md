@@ -35,3 +35,7 @@ Wyjścia DAC są prądowe, dlatego wymagają konwersji na napięcie. W projekcie
 ## Znaczenie modułu
 
 Ten blok ma duży wpływ na jakość całego wzmacniacza. Błędy w torze I/V, filtracji lub prowadzeniu masy mogą pogorszyć szumy, zniekształcenia i separację kanałów.
+
+## Schemat ze sprawozdania
+
+![Schemat DAC i toru analogowego](../assets/rendered/dac_schemat.png)

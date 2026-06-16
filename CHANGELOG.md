@@ -18,3 +18,9 @@
 - checklistę testów,
 - opis projektu do CV i portfolio,
 - grafiki poglądowe w `assets/rendered/`.
+
+## Poprawka grafik
+
+- Usunięto grafiki pochodzące ze slajdów prezentacji.
+- Podmieniono grafiki w `assets/rendered/` na obrazy wyciągnięte z `sprawozdanie/Sprawozdanie.pdf`.
+- Zaktualizowano odwołania w README i dokumentacji PCB.

@@ -27,17 +27,17 @@ Celem PCB było połączenie części cyfrowej, analogowej, zasilania i końców
 
 ## Podgląd projektu
 
-### Schemat z Altium
+### Widok 3D PCB ze sprawozdania
 
-![Schemat Altium](../assets/rendered/altium_schemat_overview.png)
+![Widok 3D PCB](../assets/rendered/pcb_3d.png)
 
-### PCB
-
-![PCB Altium](../assets/rendered/altium_pcb_layout.png)
-
-### Widok z prezentacji
+### Routing PCB ze sprawozdania
 
 ![PCB routing](../assets/rendered/pcb_routing.png)
+
+### Szczegółowy widok PCB ze sprawozdania
+
+![PCB routing detail](../assets/rendered/pcb_routing_detail.png)
 
 ## Rzeczy do sprawdzenia przed produkcją
 

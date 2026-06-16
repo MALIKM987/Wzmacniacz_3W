@@ -41,3 +41,7 @@ flowchart LR
 ## Uwagi projektowe
 
 W torze audio zasilanie ma bezpośredni wpływ na szumy i stabilność pracy. Należy dbać o krótkie ścieżki prądowe, separację masy analogowej i cyfrowej oraz odpowiednią filtrację przy każdym układzie scalonym.
+
+## Schemat ze sprawozdania
+
+![Schemat zasilania](../assets/rendered/zasilanie_schemat.png)

@@ -73,7 +73,6 @@ flowchart LR
     I --> H
 ```
 
-![Schemat blokowy](assets/rendered/schemat_blokowy.png)
 
 ## Główne bloki funkcjonalne
 
@@ -104,7 +103,7 @@ Szczegóły znajdują się w pliku [docs/08_symulacje_ltspice.md](docs/08_symula
 
 Projekt PCB wykonano w **Altium Designer**. W repozytorium znajdują się pliki projektu, pliki wyjściowe oraz Gerbery.
 
-![Podgląd PCB](assets/rendered/pcb_routing.png)
+![Podgląd PCB ze sprawozdania](assets/rendered/pcb_routing.png)
 
 Najważniejsze katalogi źródłowe:
 
